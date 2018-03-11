@@ -10,9 +10,13 @@ Tutorial for the 2018 Charlottesville Women in Data Science (WiDS)
 - seaborn
 - keras
 - h2o
+- sklearn
 
 <b>Python Version: 3.5</b>
 
+<b>Data and Files</b>
+Go to the `Data` branch <br>
+- There you will find the Word2Vec file, a link to the GloVe file, two saved Keras models, and a link to the Kaggle Amazon Reviews.csv
 
 <b>Misc</b>:
 This Notebook was developed on a Macbook Pro:
