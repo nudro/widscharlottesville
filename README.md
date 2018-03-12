@@ -6,11 +6,12 @@ Tutorial for the 2018 Charlottesville Women in Data Science (WiDS)
 <b>A Gentle Introduction to Building Models in Different Frameworks</b>
 
 <b>Dependencies</b>:
-- wordcloud
-- seaborn
-- keras
-- h2o
-- sklearn
+- wordcloud 1.4
+- seaborn 0.8.1
+- keras 2.1.5
+- tensorflow 1.6.0
+- h2o 3.18.0.4
+- sklearn 0.19.1
 
 <b>Python Version: 3.5</b>
 
